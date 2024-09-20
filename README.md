@@ -11,5 +11,5 @@ Acesse a landing page publicada no GitHub Pages: [Landing Page Clínica Saúde T
 - CSS
 
 ## Como rodar o projeto localmente
-1. Clone o repositório: `git clone <URL do repositório>`
+1. Clone o repositório: `git clone (https://github.com/rafuxo22/landing-page-clinica)`
 2. Abra o arquivo `index.html` no navegador.
